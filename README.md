@@ -147,7 +147,7 @@ Gas Value: 420
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Astha Gautam
 
 ---
 
